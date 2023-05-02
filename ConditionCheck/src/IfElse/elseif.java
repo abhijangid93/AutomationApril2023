@@ -5,7 +5,7 @@ public class elseif {
 	
 	public static void main(String[] args) {
 		
-	elseif e = new elseif();
+
 	Scanner s = new Scanner(System.in);
 	System.out.println("Enter Your Marks");
 	int mark = s.nextInt();
