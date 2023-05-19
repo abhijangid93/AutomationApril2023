@@ -10,7 +10,7 @@ public class Factorial {
 	Factorial f = new Factorial();
 	Scanner s = new Scanner(System.in);
 	System.out.println("Enter Your Value");
-	int n = 4;
+	int n = s.nextInt();
 	int fact = 1;
 	int i;
 	for(i=1;i<=n;i++)
