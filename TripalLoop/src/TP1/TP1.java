@@ -1,5 +1,4 @@
 package TP1;
-
 public class TP1 
 {
 public static void main(String[] args) {
@@ -19,6 +18,3 @@ public static void main(String[] args) {
 	}
 }
 }
-
-
-
